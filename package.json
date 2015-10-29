@@ -49,7 +49,7 @@
     "react-router": "0.13.3",
     "react-translate-component": "~0.9.0",
     "reflux": "~0.2.8",
-    "tether": "HubSpot/tether#df8cd44",
+    "tether": "~1.1.1",
     "underscore": "^1.8.3"
   },
   "engine": "node 0.12.x"

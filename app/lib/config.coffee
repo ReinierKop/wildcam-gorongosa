@@ -1,3 +1,3 @@
 module.exports =
-  projectId: '593'
-  workflowId: '338'
+  projectId: '1'
+  workflowId: '1'
